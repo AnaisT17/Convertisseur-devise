@@ -17,4 +17,6 @@
 
 https://anaist17.github.io/Convertisseur-devise/app
 
+<p align="center">
 ![Image of Ticket Project](https://anaist17.github.io/Convertisseur-devise/convertisseur-devises.png)
+<:p>
