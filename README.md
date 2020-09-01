@@ -2,9 +2,9 @@
 
 ### Création d'un convertisseur en interface graphique Python
 
-### Technologies : Terminal, VScode, Python 3, PySide2, Package JSON, 
+## Technologies : Terminal, VScode, Python 3, PySide2, Package JSON, 
 
-### *Etapes*: 
+### Etapes: 
 
 - Création de la fenêtre principale 
 - Création de l'interface
@@ -12,5 +12,5 @@
 - Convertir la devise et afficher les résultats 
 - Gestion des erreurs lors de l'affichage de devises non reconnues
 - Changer le style de l'interface
-# Convertisseur-devise
-# Convertisseur-devise
+
+![Image of Ticket Project](https://anaist17.github.io/Convertisseur-devise/convertisseur-devises.png)
